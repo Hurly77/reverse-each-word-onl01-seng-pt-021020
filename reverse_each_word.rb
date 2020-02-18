@@ -1,4 +1,3 @@
 def reverse_each_word(string)
-string[] words = string.split("")
-array.reverse(words)
+reverse_string = string.split("")
 end
