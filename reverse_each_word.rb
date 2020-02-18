@@ -5,3 +5,4 @@ string.each do |string| reverse_string << empty_array
 
 end
 return empty_array
+end
